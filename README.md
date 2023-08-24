@@ -1,8 +1,8 @@
 # LeetCodePythonJourney 🚀
 
-![GitHub contributors](https://img.shields.io/github/contributors/Tharanitharan-M/DailyLeetCodePy)
-![GitHub last commit](https://img.shields.io/github/last-commit/Tharanitharan-M/DailyLeetCodePy)
-![GitHub repo size](https://img.shields.io/github/repo-size/Tharanitharan-M/DailyLeetCodePy)
+![GitHub contributors](https://img.shields.io/github/contributors/Tharanitharan-M/LeetCodePythonJourney)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tharanitharan-M/LeetCodePythonJourney)
+![GitHub repo size](https://img.shields.io/github/repo-size/Tharanitharan-M/LeetCodePythonJourney)
 
 
 Welcome to my LeetCode Python Journey repository! 👋 Here, I commit to solving 2 LeetCode problems daily, following the Neetcode roadmap 🗺️. This repository is not only my personal coding tracker but also a resource for fellow learners 🌟. 
