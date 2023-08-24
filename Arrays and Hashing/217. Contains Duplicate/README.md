@@ -26,4 +26,4 @@ The approach involves using a hashmap to store the elements of the integer array
 ## Code
 [Python Code](217.%20Contains%20Duplicate.py)
 
-Feel free to use this solution as a reference for solving the "242. Valid Anagram" problem. This approach provides an efficient solution to determine whether two strings are anagrams of each other. Happy coding! 🚀🔥
+Feel free to use this solution as a reference for solving the "217: Contains Duplicate" problem. This approach provides an efficient solution to determine whether two strings are anagrams of each other. Happy coding! 🚀🔥
