@@ -1,7 +1,7 @@
 # Problem 242: Valid Anagram
 
-Difficulty: ![Easy](https://img.shields.io/badge/Easy-3fca7d)
-Link: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- Difficulty: ![Easy](https://img.shields.io/badge/Easy-3fca7d)
+- Link: [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ## Problem Statement
 
@@ -27,6 +27,6 @@ The approach involves using a hashmap to store the character frequencies of the 
 
 ## Code
 
-[Python Code]("242. Valid Anagram.py")
+[Python Code](242.%20Valid%20Anagram.py)
 
 Feel free to use this solution as a reference for solving the "242. Valid Anagram" problem. This approach provides an efficient solution to determine whether two strings are anagrams of each other. Happy coding! 🚀🔥
