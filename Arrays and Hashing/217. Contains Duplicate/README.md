@@ -1,7 +1,7 @@
 # Problem 217: Contains Duplicate
 
-Difficulty: ![Easy](https://img.shields.io/badge/Easy-3fca7d)
-Link: [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- Difficulty: ![Easy](https://img.shields.io/badge/Easy-3fca7d)
+- Link: [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 ## Problem Statement
 
@@ -24,6 +24,6 @@ The approach involves using a hashmap to store the elements of the integer array
   The space complexity is determined by the space required to store the hashmap. In the worst case, when all elements in the array are distinct, the space complexity is `O(n)`.
 
 ## Code
-[Python Code]("217. Contains Duplicate.md")
+[Python Code](217.%20Contains%20Duplicate.py)
 
 Feel free to use this solution as a reference for solving the "242. Valid Anagram" problem. This approach provides an efficient solution to determine whether two strings are anagrams of each other. Happy coding! 🚀🔥
