@@ -12,7 +12,9 @@ Welcome to my LeetCode Python Journey repository! 👋 Here, I commit to solving
 - 📚 Follow the Neetcode roadmap for structured learning.
 - 🤝 Solo contributor: Tracking my progress and helping others simultaneously.
 
-## Total Problems Solved: [![LeetCode user Tharanitharan-M](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FTharanitharan-M&logo=leetcode&logoColor=yellow)](https://leetcode.com/Tharanitharan-M/)
+## LeetCode Status:
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Tharanitharan-M?theme=dark&font=baloo&extension=null)
 
 ## How to Contribute
 Found a bug? Have a better solution? Contributions are welcome! Feel free to open a pull request or an issue.
